@@ -1,3 +1,43 @@
+*{
+	border: 0px;
+	margin: 0px;
+	padding: 0px; 
+}
+body{
+	background: #ccc
+}
 li{
 	display: inline-block;
+	color: red;
+}
+#contenedor{
+	background: #ffffff;
+	height: 1050px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+}
+header, #episodios, #galeria, #suscripcion{
+	background: #fff;
+	width: 780px;
+	height: 100px;
+}
+#episodios{
+	background: #666;
+	height: 180px;
+}
+#galeria{
+	background: ##fff;
+	height: 100px;
+}
+#suscripcion{
+	background: #666;
+	height: 180px;
+}
+}
+footer{
+	background: #F21;
+	width: 780px;
+	height: 60px;
+
 }
